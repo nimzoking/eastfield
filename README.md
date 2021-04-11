@@ -4,3 +4,8 @@ Initial design as a landing page, will be adding in Django backend for shopping 
 
 #To Do
 Add shopping cart backend
+
+#Checked
+
+All running OK with Docker Desktop and WSL2
+
